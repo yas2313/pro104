@@ -1,0 +1,20 @@
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+body
+{
+    color: white;
+    background: violet;
+}
+#camere
+{
+    border: 2px dashee black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_accuracy,#result_object_name
+{
+    color: yellow;
+}
